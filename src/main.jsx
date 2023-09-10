@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom/client'
 import { I18nextProvider } from 'react-i18next'
 import i18next from 'i18next'
 
-import global_en from '../public/locales/en/global.json'
-import global_es from '../public/locales/es/global.json'
+import global_en from './locales/en/global.json'
+import global_es from './locales/es/global.json'
 
 import App from './App.jsx'
 
